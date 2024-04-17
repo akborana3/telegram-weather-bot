@@ -5,10 +5,5 @@
       "src": "/",
       "dest": "/index.js"
     }
-  ],
-  "functions": {
-    "api": {
-      "handler": "index.handler"
-    }
-  }
+  ]
 }
